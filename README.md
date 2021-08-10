@@ -12,26 +12,5 @@ Machine Learning Projects: -
   3. Churn Modelling using Simple ANN Model: - Build a very simple ANN model to predict the behaviour of customers which will help to retain them.  
   
 Tools Used: - scikit-learn, Pandas, Seaborn, Matplotlib,Pandas-Profiling,EvalML,keras,Tensorflow
-## Appendix
 
-Any additional information goes here
-
-  
-## Authors
-
-- [@katherinepeterson](https://www.github.com/octokatherine)
-
-  
-## Features
-
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
-
-  
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-  
+If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at raj5yadav23@yahoo.com.
